@@ -1,0 +1,38 @@
+[INFO] 21:07:45:341 TP0/(2217:2217): Hola! Soy un log
+[INFO] 21:44:12:717 TP0/(3079:3079): Hola! Soy un log
+[INFO] 21:44:12:721 TP0/(3079:3079): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:04:05:652 TP0/(3415:3415): Hola! Soy un log
+[INFO] 21:04:05:656 TP0/(3415:3415): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:04:42:833 TP0/(3415:3415): Primer log por consola
+[INFO] 21:04:44:406 TP0/(3415:3415): 
+[INFO] 21:04:45:717 TP0/(3415:3415): 
+[INFO] 21:07:12:177 TP0/(3760:3760): Hola! Soy un log
+[INFO] 21:07:12:180 TP0/(3760:3760): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:08:45:323 TP0/(3760:3760): olllooooon
+[INFO] 21:08:45:334 TP0/(3760:3760): 
+[INFO] 21:08:45:344 TP0/(3760:3760): 
+[INFO] 21:08:52:619 TP0/(3760:3760): 
+[INFO] 21:09:53:752 TP0/(4163:4163): Hola! Soy un log
+[INFO] 21:09:53:755 TP0/(4163:4163): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:10:03:649 TP0/(4163:4163): estaba el diablo mal parado
+[INFO] 21:11:53:243 TP0/(4365:4365): Hola! Soy un log
+[INFO] 21:11:53:245 TP0/(4365:4365): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:12:12:695 TP0/(4365:4365): string copy sin negar
+[INFO] 21:12:20:438 TP0/(4365:4365): prueba exitosa juas juas
+[INFO] 21:12:21:316 TP0/(4365:4365): 
+[INFO] 21:12:22:352 TP0/(4365:4365): 
+[INFO] 21:12:23:204 TP0/(4365:4365): 
+[INFO] 21:12:32:767 TP0/(4365:4365): prueba no exitosa
+[INFO] 21:14:03:450 TP0/(4687:4687): Hola! Soy un log
+[INFO] 21:14:03:455 TP0/(4687:4687): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 21:14:15:486 TP0/(4687:4687): prueba con exit
+[INFO] 21:14:18:165 TP0/(4687:4687): exit
+[INFO] 12:02:21:257 TP0/(5079:5079): Hola! Soy un log
+[INFO] 12:02:21:261 TP0/(5079:5079): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 12:02:36:423 TP0/(5079:5079): primer log en server
+[INFO] 12:02:40:206 TP0/(5079:5079): 
+[INFO] 12:02:41:785 TP0/(5079:5079): 
+[INFO] 12:08:50:793 TP0/(5789:5789): Hola! Soy un log
+[INFO] 12:08:50:796 TP0/(5789:5789): Lei la IP 127.0.0.1 y puerto 4444
+[INFO] 12:26:00:333 TP0/(7057:7057): Hola! Soy un log
+[INFO] 12:26:00:336 TP0/(7057:7057): Lei la IP 127.0.0.1 y puerto 4444

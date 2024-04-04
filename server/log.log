@@ -1,0 +1,15 @@
+[INFO] 12:01:47:237 Servidor/(4893:4893): Servidor listo para recibir al cliente
+[INFO] 12:08:12:316 Servidor/(5669:5669): Servidor listo para recibir al cliente
+[INFO] 12:10:17:993 Servidor/(5669:5669): Se conecto un cliente!
+[INFO] 12:10:17:994 Servidor/(5669:5669): Me llego el mensaje valor
+[ERROR] 12:10:54:743 Servidor/(5669:5669): el cliente se desconecto. Terminando servidor
+[INFO] 12:21:02:976 Servidor/(6446:6446): Servidor listo para recibir al cliente
+[INFO] 12:25:38:704 Servidor/(6888:6888): Servidor listo para recibir al cliente
+[INFO] 12:26:00:339 Servidor/(6888:6888): Se conecto un cliente!
+[INFO] 12:26:00:343 Servidor/(6888:6888): Me llego el mensaje valor
+[INFO] 12:26:21:304 Servidor/(6888:6888): Me llegaron los siguientes valores:
+
+[INFO] 12:26:21:304 Servidor/(6888:6888): hola que tal
+[INFO] 12:26:21:304 Servidor/(6888:6888): que paqueton
+[INFO] 12:26:21:305 Servidor/(6888:6888): listo
+[ERROR] 12:26:21:305 Servidor/(6888:6888): el cliente se desconecto. Terminando servidor
